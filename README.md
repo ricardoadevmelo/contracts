@@ -17,7 +17,7 @@ Develop the basic structure of a project with composition and enumeration.
 
 ## How to run the project:
 
-Pré-requisitos: <br />
+Prerequisites: <br />
 
 :small_blue_diamond: Java 11 <br />
 ```bash
